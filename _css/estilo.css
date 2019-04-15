@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "UTF-8"; /*tem exatamente a mesma função aplicada no HTML*/
 body {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
